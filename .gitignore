@@ -1,0 +1,11 @@
+# Python specific
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+*.egg
+
+# IDE specific files
+.idea/
+.vscode/
+.DS_Store
